@@ -1,0 +1,14 @@
+# Ignore platform-specific folders from language stats
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+web/** linguist-vendored
+
+# Ignore metadata
+.metadata linguist-generated
+
+# Keep Dart and JS visible
+lib/** linguist-detectable=true
+server/** linguist-detectable=true
