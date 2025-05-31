@@ -1,0 +1,2 @@
+/Users/prustysrujal2003/Desktop/F/mp_tiktactoe/android/app/.cxx/Debug/292m6r1y/x86_64/CMakeFiles/edit_cache.dir
+/Users/prustysrujal2003/Desktop/F/mp_tiktactoe/android/app/.cxx/Debug/292m6r1y/x86_64/CMakeFiles/rebuild_cache.dir
